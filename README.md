@@ -6,7 +6,7 @@ En México, el horario de verano es distinto al utilizado en Europa y al utiliza
 La función recibe como parámetros el año, el mes, el día y la hora. Todos estos datos pueden obtenerse de funciones de fecha en distintos lenguajes de programación; por ejemplo, para C   (Arduino) puedes utilizar la estructura "struct tm": http://www.cplusplus.com/reference/ctime/tm/.
 La función regresa el valor de verdadero (true) si el horario de verano está activado o regresa falso (false) si el horario de verano no aplica.
 
-# INGLÉS
+# ENGLISH
 This repository was created with the purpose of sharing the following function, to verify the summer time for Mexico.
 Inspired by the NTPtimeESP repository: https://github.com/SensorsIot/NTPtimeESP.
 In Mexico, daylight saving time is different from that used in Europe and the one used in the United States of America, since it begins on the first Sunday of April and ends on the last Sunday of October.
