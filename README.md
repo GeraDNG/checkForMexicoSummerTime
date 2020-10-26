@@ -1,5 +1,3 @@
-# checkForMexicoSummerTime
-
 # ESPAÑOL
 Éste repositorio se creó con el propósito de compartir la siguiente función, para verificar el horario de verano para México.
 Inspirado en el repositorio NTPtimeESP: https://github.com/SensorsIot/NTPtimeESP.
